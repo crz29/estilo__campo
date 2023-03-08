@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin: 20% 25%;
+    width: 50%;
+    background-color: #c0b99d ;
+    border-radius: 16px;
+    border-width: 4px;
+    border-style: solid;
+    border-color: black;
+}
